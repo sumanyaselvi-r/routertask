@@ -1,0 +1,41 @@
+.card{
+  width: 100%;
+  height: 100%;
+  
+}
+.card .card-img-top{
+  width: 100%;
+  height: 100%;
+}
+#topnav{
+  align-items: center;
+  height: 100%;
+  font-size: 20px;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+#topnav img{
+   padding-left: 40px;
+}
+.head-container{
+  width: 100%;
+  height: 100%;
+text-align: center;
+padding-top: 100px;
+padding-bottom: 100px;
+background-color: rgb(123, 211, 161);
+font-family: 'Times New Roman', Times, serif;
+}
+#navv li{
+  color: black;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  justify-content: space-between;
+}
+#navv li:hover{
+  color:green;
+}
+#navv{
+  padding-bottom: 20px;
+  
+}
